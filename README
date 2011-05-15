@@ -1,1 +1,1 @@
-IP Info is a IP Locator application coded in Java.It gives information about an IP Address such as country, city, state, latitudes, longitudes and timezone.
+IP Info is a IP Locator application coded in Java.It gives information about an IP Address such as country, city, state, latitudes, longitudes and timezone.It uses 3rd party api to achieve this.IPInfoDB provides free api.(check out : www.ipinfodb.com)
